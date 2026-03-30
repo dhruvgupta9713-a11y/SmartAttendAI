@@ -7,7 +7,7 @@ A **browser-based, AI-powered Smart Attendance System** using real-time face rec
 🔗 **Hosted Link:** [https://dhruvgupta9713-a11y.github.io/SmartAttendAI/](https://dhruvgupta9713-a11y.github.io/SmartAttendAI/)
 
 - 📄 **Project Report:** [index.html](https://dhruvgupta9713-a11y.github.io/SmartAttendAI/index.html)
-- 🚀 **Live App:** [app.html](https://dhruvgupta9713-a11y.github.io/SmartAttendAI/app.html)
+- 🚀 **Live App:** [app.html]( http://localhost:3000/app.html)
 
 ---
 
