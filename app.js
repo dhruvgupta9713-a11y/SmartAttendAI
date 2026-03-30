@@ -1,4 +1,4 @@
-/* ============================================
+/*dhruvguta i make this project this is very beautiful but it identify the systematic version  ============================================
    SMART ATTENDANCE SYSTEM — CORE ML LOGIC
    Face Detection, Recognition & Attendance
    Uses face-api.js (TensorFlow.js based)
